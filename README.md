@@ -1,4 +1,4 @@
-### This works only for iOS
+### https://github.com/LeBlaaanc/react-native-streamingkit is only for `iOS` not for Android. If you want to stream in `Android` check this one https://github.com/EstebanFuentealba/react-native-android-audio-streaming-aac 
 
 ### How to run this app
 
